@@ -90,7 +90,7 @@ The complete source code is included in this repository:
 
 ---
 
-## 📸 Demonstration (Optional)
+## 📸 Demonstration
 
 - [GUI Screenshot](images/interface.jpg)
 
