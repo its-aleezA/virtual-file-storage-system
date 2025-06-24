@@ -97,7 +97,7 @@ The complete source code is included in this repository:
 - [System Diagram](images/system_diagram.jpg)
 
 - [Class Diagram](images/class_diagram.jpg)
-- 
+  
 ---
 
 ## 👥 Contributors
