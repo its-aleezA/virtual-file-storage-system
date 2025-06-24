@@ -86,7 +86,7 @@ A complete report documenting the system design, implementation details, data st
 
 The complete source code is included in this repository:
 
-- [`code/`](code/virtual_file_storage_system.cpp)
+- [Source Code](code/virtual_file_storage_system.cpp)
 
 ---
 
